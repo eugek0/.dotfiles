@@ -5,6 +5,13 @@ Personal configuration files for my Linux environment.
 This repository contains configuration files for my development environment, window manager setup, terminal tools, and other applications.
 All files are managed using **GNU Stow** to create symbolic links in the home directory.
 
+## Preview
+
+![image](https://github.com/eugek0/.dotfiles/blob/main/preview/image1.png)
+![image](https://github.com/eugek0/.dotfiles/blob/main/preview/image2.png)
+![image](https://github.com/eugek0/.dotfiles/blob/main/preview/image3.png)
+![image](https://github.com/eugek0/.dotfiles/blob/main/preview/image4.png)
+
 ## Requirements
 
 Before installing, make sure the following tools are installed:
