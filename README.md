@@ -29,7 +29,8 @@ Example for Arch Linux:
 
 ```bash
 sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
-sudo pacman -Suy stow zsh niri xwayland-satellite xdg-desktop-portal-gnome xdg-desktop-portal-gtk kitty dms-shell-bin matugen cava qt6-multimedia-ffmpeg
+sudo pacman -Suy stow zsh niri xwayland-satellite xdg-desktop-portal-gnome xdg-desktop-portal-gtk kitty
+yay -S dms-shell-bin matugen cava qt6-multimedia-ffmpeg
 systemctl --user add-wants niri.service dms
 ```
 
